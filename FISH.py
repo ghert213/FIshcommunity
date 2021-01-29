@@ -1,14 +1,5 @@
-import telebot
-import os
-
-
-bot = telebot.TeleBot('1474693090:AAFs0giKJPrzCqk5kpbZlTyKZn7M1hxQ6gw')
-
-
-
-
-bot.polling()
-
+print('Привет Вио, крч мне лень учить тебя создавать фиш страницы с телефона поэтому создавать я буду их с кома')
+print('кстати эта програ прекрасно показывает как взламывать вк))')
 
 
 
